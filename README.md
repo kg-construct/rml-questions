@@ -9,7 +9,7 @@ Based on these questions we would like to also include relevant examples.
 ## Transfering existing issues
 
 If an issue was already created in another repo,
-it is possible to [transfer it](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) to this repo.
+create a new issue in this repo, point to this new issue in the old issue and close the old issue.
 
 ## Add link to README of your processor
 
